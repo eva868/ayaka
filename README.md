@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/Ayakafadhilla/89c3129d-4fb3-42c0-b887-57ca569acb4c/e1d7ebee-a7ad-4f1d-8abc-463943d1f775/_apis/work/boardbadge/fdae88a3-9ec1-47cd-9fe6-36aedede63aa)](https://dev.azure.com/Ayakafadhilla/89c3129d-4fb3-42c0-b887-57ca569acb4c/_boards/board/t/e1d7ebee-a7ad-4f1d-8abc-463943d1f775/Microsoft.RequirementCategory)
 # ayaka
